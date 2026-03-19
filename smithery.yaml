@@ -1,0 +1,11 @@
+# Smithery configuration for DevKits MCP Server
+# https://smithery.ai/server/io.github.hezeclark/devkits
+
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties: {}
+    required: []
+  commandFunction: |-
+    (_config) => ({ command: "npx", args: ["devkits-mcp-server"] })
