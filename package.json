@@ -29,8 +29,9 @@
     "ai-tools"
   ],
   "license": "MIT",
+  "mcpName": "io.github.hezeclark/devkits",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nicekid1/devkits-mcp"
+    "url": "https://github.com/hezeclark/devkits-mcp"
   }
 }
