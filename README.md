@@ -6,6 +6,29 @@ An MCP (Model Context Protocol) server that exposes DevKits developer utilities 
 
 ---
 
+## About DevKits
+
+[**DevKits**](https://aiforeverthing.com) is your all-in-one developer toolkit with **200+ free online tools**:
+
+- **Format & Validate**: JSON, XML, CSS, HTML
+- **Encode & Decode**: Base64, JWT, URL, HTML entities
+- **Generate**: UUIDs, hashes, QR codes, passwords
+- **Convert**: Markdown to HTML, timestamps, colors
+- **Analyze**: Regex testing, cron expressions, text diffs
+- **And more**: Crypto, finance, devops, security tools
+
+**Why DevKits?**
+- **100% Free** — No signup required
+- **Privacy First** — Everything runs in your browser
+- **Works Offline** — PWA support for offline usage
+- **200+ Tools** — One stop shop for all developer needs
+
+**Pro Version**: Unlock 24 pro tools for $9 one-time (vs $168/year for Postman)
+
+👉 Visit [aiforeverthing.com](https://aiforeverthing.com) now!
+
+---
+
 ## Installation
 
 ### Option A — npx (no install)
