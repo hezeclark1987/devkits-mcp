@@ -1,4 +1,4 @@
-# @devkits/mcp-server
+# @hezeclark1987/devkits-mcp-server
 
 > 12 developer tools for AI assistants — powered by [DevKits](https://aiforeverthing.com)
 
@@ -11,13 +11,13 @@ An MCP (Model Context Protocol) server that exposes DevKits developer utilities 
 ### Option A — npx (no install)
 
 ```bash
-npx @devkits/mcp-server
+npx @hezeclark1987/devkits-mcp-server
 ```
 
 ### Option B — global install
 
 ```bash
-npm install -g @devkits/mcp-server
+npm install -g @hezeclark1987/devkits-mcp-server
 ```
 
 ---
@@ -31,7 +31,7 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json` (macOS)
   "mcpServers": {
     "devkits": {
       "command": "npx",
-      "args": ["@devkits/mcp-server"]
+      "args": ["@hezeclark1987/devkits-mcp-server"]
     }
   }
 }
@@ -48,7 +48,7 @@ Add to `.cursor/mcp.json` in your project root, or to the global `~/.cursor/mcp.
   "mcpServers": {
     "devkits": {
       "command": "npx",
-      "args": ["@devkits/mcp-server"]
+      "args": ["@hezeclark1987/devkits-mcp-server"]
     }
   }
 }
@@ -68,7 +68,7 @@ Add to `~/.continue/config.json`:
         "transport": {
           "type": "stdio",
           "command": "npx",
-          "args": ["@devkits/mcp-server"]
+          "args": ["@hezeclark1987/devkits-mcp-server"]
         }
       }
     ]

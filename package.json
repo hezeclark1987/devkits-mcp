@@ -1,10 +1,10 @@
 {
-  "name": "devkits-mcp-server",
-  "version": "1.0.1",
-  "description": "MCP Server for DevKits \u2014 110+ developer tools for AI assistants",
+  "name": "@hezeclark1987/devkits-mcp-server",
+  "version": "1.0.2",
+  "description": "MCP Server for DevKits — 110+ developer tools for AI assistants",
   "main": "dist/index.js",
   "bin": {
-    "devkits-mcp-server": "dist/index.js"
+    "@hezeclark1987/devkits-mcp-server": "dist/index.js"
   },
   "scripts": {
     "build": "tsc",
