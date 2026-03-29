@@ -124,7 +124,7 @@ Explain the cron expression "0 9 * * 1-5" using devkits_cron_parse
 ## Build from Source
 
 ```bash
-git clone https://github.com/nicekid1/devkits-mcp
+git clone https://github.com/hezeclark1987/devkits-mcp
 cd devkits-mcp
 npm install
 npm run build
